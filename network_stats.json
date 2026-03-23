@@ -1,0 +1,614 @@
+{
+    "Jakarta|Tokyo": {
+        "mean": 77.16563398222222,
+        "stddev": 0.09461537747058615
+    },
+    "Delhi|Tokyo": {
+        "mean": 135.5247514622222,
+        "stddev": 4.771932237907979
+    },
+    "Mumbai|Tokyo": {
+        "mean": 132.45727970000002,
+        "stddev": 19.151680464214245
+    },
+    "Manila|Tokyo": {
+        "mean": 55.77194733777778,
+        "stddev": 0.09993358172074669
+    },
+    "S\u00e3o Paulo|Tokyo": {
+        "mean": 264.3249485422222,
+        "stddev": 3.8380961129165043
+    },
+    "Seoul|Tokyo": {
+        "mean": 29.71912517333333,
+        "stddev": 0.4758569297300765
+    },
+    "Mexico City|Tokyo": {
+        "mean": 139.53914188444443,
+        "stddev": 1.5186288736271383
+    },
+    "New York City|Tokyo": {
+        "mean": 147.47934166666667,
+        "stddev": 1.4452455146800112
+    },
+    "Bangkok|Tokyo": {
+        "mean": 90.90054659111112,
+        "stddev": 8.73844598227165
+    },
+    "Moscow|Tokyo": {
+        "mean": 123.03242018222222,
+        "stddev": 1.8156637299659166
+    },
+    "Buenos Aires|Tokyo": {
+        "mean": 230.05298625777777,
+        "stddev": 7.520890076705808
+    },
+    "Lagos|Tokyo": {
+        "mean": 343.7673676807512,
+        "stddev": 11.319324396093132
+    },
+    "Los Angeles|Tokyo": {
+        "mean": 101.62206140444444,
+        "stddev": 4.328574059012579
+    },
+    "Ho Chi Minh City|Tokyo": {
+        "mean": 75.28666863555556,
+        "stddev": 4.8686478262507284
+    },
+    "Osaka|Tokyo": {
+        "mean": 15.69682010222222,
+        "stddev": 2.8103387271736486
+    },
+    "Johannesburg|Tokyo": {
+        "mean": 180.04492581900453,
+        "stddev": 3.6188201778499276
+    },
+    "Istanbul|Tokyo": {
+        "mean": 234.84027149333335,
+        "stddev": 0.16640792640229124
+    },
+    "Delhi|Jakarta": {
+        "mean": 87.99322104888888,
+        "stddev": 6.0457691571079835
+    },
+    "Jakarta|Mumbai": {
+        "mean": 63.05367601333333,
+        "stddev": 3.7530520937098633
+    },
+    "Jakarta|Manila": {
+        "mean": 41.49512193693693,
+        "stddev": 0.3594389932071125
+    },
+    "Jakarta|S\u00e3o Paulo": {
+        "mean": 323.49992783035714,
+        "stddev": 0.10631403465551166
+    },
+    "Jakarta|Seoul": {
+        "mean": 90.39326410502284,
+        "stddev": 25.055453909829236
+    },
+    "Jakarta|Mexico City": {
+        "mean": 234.14161985333334,
+        "stddev": 3.1901134025635423
+    },
+    "Jakarta|New York City": {
+        "mean": 249.589355527027,
+        "stddev": 54.77730682680062
+    },
+    "Bangkok|Jakarta": {
+        "mean": 39.66510779111111,
+        "stddev": 7.803386575777436
+    },
+    "Jakarta|Moscow": {
+        "mean": 165.42824441517857,
+        "stddev": 8.539132726386265
+    },
+    "Buenos Aires|Jakarta": {
+        "mean": 340.98686573333333,
+        "stddev": 0.18947343110870832
+    },
+    "Jakarta|Lagos": {
+        "mean": 235.4107282488889,
+        "stddev": 9.740812871483032
+    },
+    "Jakarta|Los Angeles": {
+        "mean": 207.4221198577778,
+        "stddev": 57.0337605622913
+    },
+    "Ho Chi Minh City|Jakarta": {
+        "mean": 41.41782332444445,
+        "stddev": 8.182566805165955
+    },
+    "Jakarta|Osaka": {
+        "mean": 93.90111167111111,
+        "stddev": 2.883710420340596
+    },
+    "Jakarta|Johannesburg": {
+        "mean": 157.00056531555555,
+        "stddev": 11.391605245774215
+    },
+    "Istanbul|Jakarta": {
+        "mean": 178.02955852192983,
+        "stddev": 0.9565614641248902
+    },
+    "Delhi|Mumbai": {
+        "mean": 39.306046968888886,
+        "stddev": 2.143842116907263
+    },
+    "Delhi|Manila": {
+        "mean": 134.61185935897436,
+        "stddev": 151.60426393417487
+    },
+    "Delhi|S\u00e3o Paulo": {
+        "mean": 260.23497496,
+        "stddev": 0.2884139785920232
+    },
+    "Delhi|Seoul": {
+        "mean": 171.6883627511111,
+        "stddev": 9.193752265129653
+    },
+    "Delhi|Mexico City": {
+        "mean": 286.68198690222226,
+        "stddev": 4.371224903298171
+    },
+    "Delhi|New York City": {
+        "mean": 215.63730161333334,
+        "stddev": 2.9684838903392046
+    },
+    "Bangkok|Delhi": {
+        "mean": 110.03836780357143,
+        "stddev": 6.950792171163729
+    },
+    "Delhi|Moscow": {
+        "mean": 190.83166347555553,
+        "stddev": 1.1591408652126873
+    },
+    "Buenos Aires|Delhi": {
+        "mean": 362.54414184,
+        "stddev": 0.9220920414565272
+    },
+    "Delhi|Lagos": {
+        "mean": 263.6741927111111,
+        "stddev": 0.31898068766794685
+    },
+    "Delhi|Los Angeles": {
+        "mean": 249.82049840444444,
+        "stddev": 8.094856832281065
+    },
+    "Delhi|Ho Chi Minh City": {
+        "mean": 122.44851758482143,
+        "stddev": 14.24028935545819
+    },
+    "Delhi|Osaka": {
+        "mean": 159.06365550666666,
+        "stddev": 5.461736183298167
+    },
+    "Delhi|Johannesburg": {
+        "mean": 234.47506442857141,
+        "stddev": 11.07762446329345
+    },
+    "Delhi|Istanbul": {
+        "mean": 161.0328834090909,
+        "stddev": 16.61445777957624
+    },
+    "Manila|Mumbai": {
+        "mean": 143.64217496460176,
+        "stddev": 243.74875194780998
+    },
+    "Mumbai|S\u00e3o Paulo": {
+        "mean": 230.40755532589287,
+        "stddev": 8.776786045947167
+    },
+    "Mumbai|Seoul": {
+        "mean": 119.33123018666667,
+        "stddev": 2.165440268585849
+    },
+    "Mexico City|Mumbai": {
+        "mean": 272.71205124,
+        "stddev": 10.105174696537091
+    },
+    "Mumbai|New York City": {
+        "mean": 209.61088169333334,
+        "stddev": 11.416728685580848
+    },
+    "Bangkok|Mumbai": {
+        "mean": 81.38763777777777,
+        "stddev": 12.0067668624065
+    },
+    "Moscow|Mumbai": {
+        "mean": 172.0356165357143,
+        "stddev": 11.597493292039646
+    },
+    "Buenos Aires|Mumbai": {
+        "mean": 308.9454470045045,
+        "stddev": 10.941368887208286
+    },
+    "Lagos|Mumbai": {
+        "mean": 249.93006336444446,
+        "stddev": 0.17026369415706238
+    },
+    "Los Angeles|Mumbai": {
+        "mean": 218.65869916,
+        "stddev": 1.5382291260402716
+    },
+    "Ho Chi Minh City|Mumbai": {
+        "mean": 97.18801178125,
+        "stddev": 11.554951824677488
+    },
+    "Mumbai|Osaka": {
+        "mean": 140.03989447297297,
+        "stddev": 3.2595494881219125
+    },
+    "Johannesburg|Mumbai": {
+        "mean": 183.17574889333332,
+        "stddev": 10.86773474132778
+    },
+    "Istanbul|Mumbai": {
+        "mean": 141.54689793693694,
+        "stddev": 18.064265107883447
+    },
+    "Manila|S\u00e3o Paulo": {
+        "mean": 326.2384191517857,
+        "stddev": 0.797539572816754
+    },
+    "Manila|Seoul": {
+        "mean": 67.63945840888888,
+        "stddev": 0.22742290941310514
+    },
+    "Manila|Mexico City": {
+        "mean": 229.64494010714287,
+        "stddev": 0.7982868539771542
+    },
+    "Manila|New York City": {
+        "mean": 196.75463195555557,
+        "stddev": 0.19412344223422387
+    },
+    "Bangkok|Manila": {
+        "mean": 68.94348178666667,
+        "stddev": 5.0069253819891495
+    },
+    "Manila|Moscow": {
+        "mean": 197.7602602088889,
+        "stddev": 0.18361981851401932
+    },
+    "Buenos Aires|Manila": {
+        "mean": 337.1418192622222,
+        "stddev": 0.1766611949828924
+    },
+    "Lagos|Manila": {
+        "mean": 333.25530524888893,
+        "stddev": 0.2824053391625089
+    },
+    "Los Angeles|Manila": {
+        "mean": 165.07018471555554,
+        "stddev": 0.1461561710879135
+    },
+    "Ho Chi Minh City|Manila": {
+        "mean": 48.02082715111111,
+        "stddev": 5.382876779452616
+    },
+    "Manila|Osaka": {
+        "mean": 79.06461220444443,
+        "stddev": 5.227791367361819
+    },
+    "Johannesburg|Manila": {
+        "mean": 255.0436745,
+        "stddev": 3.705185726040352
+    },
+    "Istanbul|Manila": {
+        "mean": 201.22276752444444,
+        "stddev": 0.18587052938537874
+    },
+    "Seoul|S\u00e3o Paulo": {
+        "mean": 307.8264827623318,
+        "stddev": 6.141409890720935
+    },
+    "Mexico City|S\u00e3o Paulo": {
+        "mean": 163.45125940000003,
+        "stddev": 3.9769335529407477
+    },
+    "New York City|S\u00e3o Paulo": {
+        "mean": 109.65607341777778,
+        "stddev": 0.21914415249573638
+    },
+    "Bangkok|S\u00e3o Paulo": {
+        "mean": 352.7360307522936,
+        "stddev": 9.733694763997317
+    },
+    "Moscow|S\u00e3o Paulo": {
+        "mean": 218.09544311555555,
+        "stddev": 7.823685812896208
+    },
+    "Buenos Aires|S\u00e3o Paulo": {
+        "mean": 28.982837337777777,
+        "stddev": 0.18707124977219725
+    },
+    "Lagos|S\u00e3o Paulo": {
+        "mean": 341.94849862222225,
+        "stddev": 0.08665328744533729
+    },
+    "Los Angeles|S\u00e3o Paulo": {
+        "mean": 157.94017091111112,
+        "stddev": 0.07383082739567184
+    },
+    "Ho Chi Minh City|S\u00e3o Paulo": {
+        "mean": 350.1563122222222,
+        "stddev": 5.552988874910985
+    },
+    "Osaka|S\u00e3o Paulo": {
+        "mean": 281.334715,
+        "stddev": 4.133122180815745
+    },
+    "Johannesburg|S\u00e3o Paulo": {
+        "mean": 158.82533161777778,
+        "stddev": 1.2324445086718792
+    },
+    "Istanbul|S\u00e3o Paulo": {
+        "mean": 225.4364496622807,
+        "stddev": 0.1523829370446601
+    },
+    "Mexico City|Seoul": {
+        "mean": 168.2493631288889,
+        "stddev": 1.4184053966841124
+    },
+    "New York City|Seoul": {
+        "mean": 191.82029645333333,
+        "stddev": 13.970814865949619
+    },
+    "Bangkok|Seoul": {
+        "mean": 105.8334988711111,
+        "stddev": 28.205430783128453
+    },
+    "Moscow|Seoul": {
+        "mean": 275.1834597466667,
+        "stddev": 13.139735611000484
+    },
+    "Buenos Aires|Seoul": {
+        "mean": 254.26513836888887,
+        "stddev": 0.3177596148945603
+    },
+    "Lagos|Seoul": {
+        "mean": 363.36212567555555,
+        "stddev": 0.3623246554667828
+    },
+    "Los Angeles|Seoul": {
+        "mean": 130.49959990666667,
+        "stddev": 2.803370376854484
+    },
+    "Ho Chi Minh City|Seoul": {
+        "mean": 106.38240152,
+        "stddev": 5.310283800554276
+    },
+    "Osaka|Seoul": {
+        "mean": 28.177268333333334,
+        "stddev": 0.09545323799646052
+    },
+    "Johannesburg|Seoul": {
+        "mean": 196.84052464414412,
+        "stddev": 2.757778987159979
+    },
+    "Istanbul|Seoul": {
+        "mean": 260.68195678125,
+        "stddev": 3.218336582194951
+    },
+    "Mexico City|New York City": {
+        "mean": 53.53843704,
+        "stddev": 4.958181629685319
+    },
+    "Bangkok|Mexico City": {
+        "mean": 244.53974906222223,
+        "stddev": 8.149117349143909
+    },
+    "Mexico City|Moscow": {
+        "mean": 158.95571369777775,
+        "stddev": 1.6043995414994388
+    },
+    "Buenos Aires|Mexico City": {
+        "mean": 172.52741933482142,
+        "stddev": 2.54119081393656
+    },
+    "Lagos|Mexico City": {
+        "mean": 300.7589023288889,
+        "stddev": 1.1773559509215918
+    },
+    "Los Angeles|Mexico City": {
+        "mean": 41.05451271875,
+        "stddev": 0.18657979719167472
+    },
+    "Ho Chi Minh City|Mexico City": {
+        "mean": 226.46471663999998,
+        "stddev": 0.893733836711193
+    },
+    "Mexico City|Osaka": {
+        "mean": 175.6839545277778,
+        "stddev": 18.392494098297657
+    },
+    "Johannesburg|Mexico City": {
+        "mean": 223.72620546222223,
+        "stddev": 2.454546454762971
+    },
+    "Istanbul|Mexico City": {
+        "mean": 169.03824033333333,
+        "stddev": 3.605220794662785
+    },
+    "Bangkok|New York City": {
+        "mean": 246.82780314545457,
+        "stddev": 8.616459698536563
+    },
+    "Moscow|New York City": {
+        "mean": 105.88207956,
+        "stddev": 2.5135820522441885
+    },
+    "Buenos Aires|New York City": {
+        "mean": 134.72197568,
+        "stddev": 0.2590573926645352
+    },
+    "Lagos|New York City": {
+        "mean": 221.24687681333333,
+        "stddev": 0.05365953919763432
+    },
+    "Los Angeles|New York City": {
+        "mean": 58.63908061777777,
+        "stddev": 0.6495479199328653
+    },
+    "Ho Chi Minh City|New York City": {
+        "mean": 232.37283821333332,
+        "stddev": 39.84380158116342
+    },
+    "New York City|Osaka": {
+        "mean": 159.33416164000002,
+        "stddev": 3.481105274794345
+    },
+    "Johannesburg|New York City": {
+        "mean": 218.12537686995518,
+        "stddev": 2.021184133261271
+    },
+    "Istanbul|New York City": {
+        "mean": 113.25277400444445,
+        "stddev": 4.541499482323325
+    },
+    "Bangkok|Moscow": {
+        "mean": 212.67119452054794,
+        "stddev": 6.160767592338687
+    },
+    "Bangkok|Buenos Aires": {
+        "mean": 350.2876000181818,
+        "stddev": 18.692157018852107
+    },
+    "Bangkok|Lagos": {
+        "mean": 329.31041355555556,
+        "stddev": 7.850954540956407
+    },
+    "Bangkok|Los Angeles": {
+        "mean": 199.71705157333332,
+        "stddev": 10.415651784243023
+    },
+    "Bangkok|Ho Chi Minh City": {
+        "mean": 72.77619526785715,
+        "stddev": 12.673424221026753
+    },
+    "Bangkok|Osaka": {
+        "mean": 106.05107499553571,
+        "stddev": 8.92608470477026
+    },
+    "Bangkok|Johannesburg": {
+        "mean": 171.16566304545455,
+        "stddev": 9.511077403752314
+    },
+    "Bangkok|Istanbul": {
+        "mean": 198.60342448,
+        "stddev": 6.831543005772572
+    },
+    "Buenos Aires|Moscow": {
+        "mean": 250.62306887111112,
+        "stddev": 2.2109823047919406
+    },
+    "Lagos|Moscow": {
+        "mean": 199.60559747342992,
+        "stddev": 0.19333863032862156
+    },
+    "Los Angeles|Moscow": {
+        "mean": 166.71706827111112,
+        "stddev": 0.8527540138920132
+    },
+    "Ho Chi Minh City|Moscow": {
+        "mean": 196.62427746666665,
+        "stddev": 3.2445814765905148
+    },
+    "Moscow|Osaka": {
+        "mean": 206.53305704888888,
+        "stddev": 23.944591742050918
+    },
+    "Johannesburg|Moscow": {
+        "mean": 200.15561050666668,
+        "stddev": 1.6632782185912895
+    },
+    "Istanbul|Moscow": {
+        "mean": 59.0110035,
+        "stddev": 4.923115430155472
+    },
+    "Buenos Aires|Lagos": {
+        "mean": 317.4025446888889,
+        "stddev": 0.3263637534348476
+    },
+    "Buenos Aires|Los Angeles": {
+        "mean": 126.98373211555555,
+        "stddev": 0.33658465793522213
+    },
+    "Buenos Aires|Ho Chi Minh City": {
+        "mean": 341.0583209490741,
+        "stddev": 9.999574631642208
+    },
+    "Buenos Aires|Osaka": {
+        "mean": 309.28917126666664,
+        "stddev": 4.137382803954517
+    },
+    "Buenos Aires|Johannesburg": {
+        "mean": 187.2636288311111,
+        "stddev": 0.0895456151028621
+    },
+    "Buenos Aires|Istanbul": {
+        "mean": 250.61436574122806,
+        "stddev": 0.15756902661320002
+    },
+    "Lagos|Los Angeles": {
+        "mean": 226.4693471377778,
+        "stddev": 0.542354510495535
+    },
+    "Ho Chi Minh City|Lagos": {
+        "mean": 260.9275153155556,
+        "stddev": 0.2775318456467366
+    },
+    "Lagos|Osaka": {
+        "mean": 410.39150792888887,
+        "stddev": 25.421692656401852
+    },
+    "Johannesburg|Lagos": {
+        "mean": 72.46708429333333,
+        "stddev": 0.1308349179912937
+    },
+    "Istanbul|Lagos": {
+        "mean": 146.09952278773585,
+        "stddev": 0.394771763542076
+    },
+    "Ho Chi Minh City|Los Angeles": {
+        "mean": 169.44447716000002,
+        "stddev": 7.247124145759033
+    },
+    "Los Angeles|Osaka": {
+        "mean": 111.69010628767124,
+        "stddev": 14.50300413569396
+    },
+    "Johannesburg|Los Angeles": {
+        "mean": 237.33652087837837,
+        "stddev": 0.16094249684154688
+    },
+    "Istanbul|Los Angeles": {
+        "mean": 166.98302804035876,
+        "stddev": 0.2511217292956452
+    },
+    "Ho Chi Minh City|Osaka": {
+        "mean": 100.65738115111111,
+        "stddev": 28.461321445101824
+    },
+    "Ho Chi Minh City|Johannesburg": {
+        "mean": 145.46839605829598,
+        "stddev": 7.985871478981551
+    },
+    "Ho Chi Minh City|Istanbul": {
+        "mean": 207.85787373777777,
+        "stddev": 5.092373704912726
+    },
+    "Johannesburg|Osaka": {
+        "mean": 193.3854782142857,
+        "stddev": 2.563477707921543
+    },
+    "Istanbul|Osaka": {
+        "mean": 281.0870957428572,
+        "stddev": 21.912701125783876
+    },
+    "Istanbul|Johannesburg": {
+        "mean": 193.76379563392857,
+        "stddev": 8.049481756184257
+    }
+}
